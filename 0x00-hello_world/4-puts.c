@@ -1,10 +1,9 @@
 #include <stdio.h>
 
 /**
+ * main - Entry point
  *
- * main - exambie
- *
- * Descriptin: A C program
+ * Descriptin: A C program that print with put function
  *
  * Return: Always 0
 */
